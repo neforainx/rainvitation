@@ -1,0 +1,10 @@
+{
+  "name": "Rainvitation - Platform Undangan Digital & Live Feed Hari-H",
+  "description": "Generator platform undangan digital berbayar dengan desain web mobile premium, pilihan 13+ tema adat nusantara & modern, serta fitur publikasi dengan link kustom /slug, generator link tamu WhatsApp, dan checkout instan.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
